@@ -11,6 +11,27 @@
 
 * Пролетарии всех стран, присоединяйтесь!
 
+## Существующие проекты
+
+### Программные продукты
+* ОГАС - система экономического планирования
+    * [Демо-сайт](https://ogasdemo.ru/)
+    * [Исходный код](https://github.com/NewCyberState/OGAS)
+    * [Паблик](https://vk.com/digital_socialism)
+
+* База нормативных актов с возможностью голосования
+    * [Краткое описание](https://t.me/pramayademokratia/269)
+    * [Сайт](http://regulation.gov.ru)
+
+### СМИ
+* [Союз Марксистов](https://vk.com/marxist_union)
+
+* [Цифровой социализм](https://vk.com/digital_socialism)
+
+* [Канал Лекса Кравецкого](https://www.youtube.com/c/KravetskiLex/playlists)
+
+* [Движение за прямую демократию](https://t.me/pramayademokratia)
+
 ## Ваш вклад
 * Предлагайте улучшения, замечания и отслеживайте прогресс проекта. Как - см. [инструкцию](./issues_guide.md).
 
