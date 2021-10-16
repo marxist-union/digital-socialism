@@ -9,6 +9,8 @@
 
 Одно замечание - одна `issue`. 
 
+1. Нажмите на большую зеленую кнопку `View on Github` выше.
+
 1. Нажмите на **Issues** - `ищьюс`
 
 ![alt](./README/issues/issues.png)
