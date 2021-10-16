@@ -95,8 +95,10 @@
 * [Агитпроп](https://agitblog.ru/)
 
 ## Ваш вклад
-* Предлагайте улучшения, замечания и отслеживайте прогресс проекта. Как - см. [инструкцию](./issues_guide.md).
+* Зарегистрируйтесь на Github. См. [инструкцию](https://vertex-academy.com/tutorials/ru/kak-zaregistrirovatsya-na-github/).
 
-* Обсуждайте. Как - см. [инструкцию](./discussions_guide.md).
+* Предлагайте улучшения, замечания и отслеживайте прогресс проекта. Cм. [инструкцию](./issues_guide.md).
+
+* Обсуждайте. Cм. [инструкцию](./discussions_guide.md).
 
 * [Почему мы используем GitHub?](./why_git.md)
