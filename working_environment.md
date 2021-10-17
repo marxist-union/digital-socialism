@@ -10,8 +10,6 @@
 1. [Узнайте](https://youtu.be/uJJ8iWHIe8g) о GitHub побольше.
 
 ## VS Code
-Используйте, если нужна удобная среда для работы с `GitHub` на компьютере.
-
 1. [Подключите git](https://youtu.be/P61d0FJJhiQ).
 
 1. Пройдитесь по замечательному [обзору возможностей](https://www.youtube.com/watch?v=Y4ezhxE7HPw).
