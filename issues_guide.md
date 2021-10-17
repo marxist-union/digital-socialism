@@ -29,10 +29,6 @@
 
 ![alt](./README/issues/submit.png)
 
-1. Выберите проект для него.
-
-![alt](./README/issues/select_project.png)
-
 1. Теперь его можно найти в списке замечаний!
 
 ![alt](./README/issues/appeared.png)
