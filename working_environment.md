@@ -17,3 +17,5 @@
 1. Пройдитесь по замечательному [обзору возможностей](https://www.youtube.com/watch?v=Y4ezhxE7HPw).
 
 1. [Украсьте](https://www.youtube.com/watch?v=O8knJcn5b-w) свой GitHub аккаунт.
+
+1. [Попробуйте в браузере](https://youtu.be/hz49T02Jqvs?t=277).
