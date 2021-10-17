@@ -7,6 +7,8 @@
 
 1. [Зарегистрируйтесь](https://vertex-academy.com/tutorials/ru/kak-zaregistrirovatsya-na-`GitHub`/) на GitHub.
 
+1. [Узнайте](https://youtu.be/uJJ8iWHIe8g) о GitHub побольше.
+
 ## VS Code
 Используйте, если нужна удобная среда для работы с `GitHub` на компьютере.
 
