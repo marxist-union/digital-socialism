@@ -25,6 +25,8 @@
     * [Краткое описание](https://t.me/pramayademokratia/269)
     * [Сайт](http://regulation.gov.ru)
 
+* [STRIKE_IT](https://t.me/STRIKE_IT_BOT)
+    > Мы помогаем людям объединяться на местах и бороться за свои трудовые права.
 
 ## Профсоюзы
 * [Профсоюз Учитель](https://pedagog-prof.org/)
