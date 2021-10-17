@@ -26,9 +26,11 @@
     * [Сайт](http://regulation.gov.ru)
 
 
-### Законодательные инициативы
-* Современная коммунистическая конституция
-    * [репозиторий](https://github.com/marxist-union/new-constitution)
+## Профсоюзы
+* [Профсоюз Учитель](https://pedagog-prof.org/)
+* [Профсоюз Курьер](https://vk.com/courier_fight)
+* [Профсоюз работников IT](https://vk.com/itunion_info)
+* [Платформа солидарности](https://vk.com/solidarity_platform)
 
 ### Организации
 * [Союз Марксистов](https://vk.com/marxist_union)
