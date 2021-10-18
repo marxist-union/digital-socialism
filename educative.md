@@ -1,23 +1,24 @@
 # Просвещение и пропаганда
 
+
 ## Политэкономия
-* [Politeconomics](https://vk.com/daniel_ever)
+* Politeconomics
     > Явления макроэкономики затрагивают нас всех — это наша повседневная жизнь.
+    * [Паблик]((https://vk.com/daniel_ever))
     * [Плейлист: неравенство в России](https://youtube.com/playlist?list=PLrOzHIqk_zFDETdS5UV1d9BSZasDSvEn_)
 
 
-* [Простые числа](https://vk.com/prostye_chisla)
+* Простые числа
     > В чьих интересах? Какого класса? — Канал «Простые числа» посвящён этим ключевым вопросам политэкономии.
+    * [Паблик](https://vk.com/prostye_chisla)
 
-<br>
 
 ## История
-* [Алексей Сафронов](https://vk.com/id32200)
+* Алексей Сафронов
+    * [Паблик](https://vk.com/id32200)
     * [Шаг в киберкоммунизм: компьютеры и планирование в СССР](https://www.youtube.com/watch?v=MtgXRgHJoTM)
-
     * [Дебаты с либертарианцем (кратко)](https://www.youtube.com/watch?v=LMIqwOm5bi4)
 
-<br>
 
 ## Пропаганда
 * [Агитпроп](https://agitblog.ru/)
@@ -25,12 +26,13 @@
 
 * [Вестник бури](http://vestnikburi.com/)
     > Журнал тотальной социалистической пропаганды.
-    
-<br>
+
 
 ## Прямая демократия
-* [Движение за прямую демократию](https://vk.com/ppd.komi)
+* Движение за прямую демократию
     > Сегодня нам больше не нужны ни партии, ни депутаты, с помощью интернета мы можем напрямую реализовывать свое право как «источника власти», о котором говорится в Конституции РФ.
+    * [Паблик](https://vk.com/ppd.komi)
 
-* [Лекс Кравецкий](https://vk.com/lex_kravetski)
+* Лекс Кравецкий
+    * [Паблик](https://vk.com/lex_kravetski)
     * [Плейлист](https://www.youtube.com/playlist?list=PLkitAWWhaFc4a0ieZFBHUQHgOdHtwAYnV)
