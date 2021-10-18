@@ -1,5 +1,7 @@
 # Цифровой социализм
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmarxist-union%2Fdigital-socialism" alt="Hits">
+
 ### Наши цели
 * Упорядочить информацию о существующих в мире системах экономического планирования и цифровых демократических инструментах.
 
