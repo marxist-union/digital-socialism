@@ -33,8 +33,8 @@
 
 
 ## Научные работы
+* [Кристалл роста](https://crystalbook.ru/)
 * [Опубликованные](./scientific_works.md)
-
 
 ## Электронные библиотеки
 * [SciHub](https://vk.com/sci_hub)
